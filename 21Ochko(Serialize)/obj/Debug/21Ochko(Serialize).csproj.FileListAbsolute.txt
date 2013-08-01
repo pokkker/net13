@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\21Ochko(Serialize)\21Ochko(Serialize)\bin\Debug\21Ochko(Serialize).exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\21Ochko(Serialize)\21Ochko(Serialize)\obj\Debug\21Ochko(Serialize).csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\21Ochko(Serialize)\21Ochko(Serialize)\bin\Debug\21Ochko(Serialize).exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\21Ochko(Serialize)\21Ochko(Serialize)\bin\Debug\21Ochko(Serialize).pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\21Ochko(Serialize)\21Ochko(Serialize)\obj\Debug\21Ochko(Serialize).exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\21Ochko(Serialize)\21Ochko(Serialize)\obj\Debug\21Ochko(Serialize).pdb

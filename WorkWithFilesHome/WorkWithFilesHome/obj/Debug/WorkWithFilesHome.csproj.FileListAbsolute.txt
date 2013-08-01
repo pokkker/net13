@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2012\Projects\WorkWithFilesHome\WorkWithFilesHome\bin\Debug\WorkWithFilesHome.exe.config
+c:\users\home\documents\visual studio 2012\Projects\WorkWithFilesHome\WorkWithFilesHome\bin\Debug\WorkWithFilesHome.exe
+c:\users\home\documents\visual studio 2012\Projects\WorkWithFilesHome\WorkWithFilesHome\bin\Debug\WorkWithFilesHome.pdb
+c:\users\home\documents\visual studio 2012\Projects\WorkWithFilesHome\WorkWithFilesHome\obj\Debug\WorkWithFilesHome.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2012\Projects\WorkWithFilesHome\WorkWithFilesHome\obj\Debug\WorkWithFilesHome.exe
+c:\users\home\documents\visual studio 2012\Projects\WorkWithFilesHome\WorkWithFilesHome\obj\Debug\WorkWithFilesHome.pdb
